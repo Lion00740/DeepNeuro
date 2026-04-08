@@ -1,0 +1,7 @@
+%runfile 'E:/Учеба/Магистратура практика/Нейронки/lab1/test.py' --wdir
+
+
+
+If you see this message, its OK. Congratulations!
+
+Current environvent is  dnnlab 
