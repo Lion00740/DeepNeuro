@@ -1,0 +1,8 @@
+path: data  # dataset root dir
+train: E:\Учеба\Магистратура практика\Нейронки\lab7\example\data\images\train # train images (relative to 'path') 
+val: E:\Учеба\Магистратура практика\Нейронки\lab7\example\data\images\val # val images (relative to 'path')
+
+# Classes
+names:
+  0: mask
+  1: NOmask

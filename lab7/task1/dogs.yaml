@@ -1,0 +1,7 @@
+path: E:\Учеба\Магистратура практика\Нейронки\lab7\task1
+train: images/train
+val: images/val
+
+
+nc: 1
+names: ['dog']
